@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.Form1.resources
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\bin\Debug\HNY_LAB1.exe.config
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\bin\Debug\HNY_LAB1.exe
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\bin\Debug\HNY_LAB1.pdb
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.exe
+C:\Users\Lenovo\Desktop\INปโย\HNY_LAB1\HNY_LAB1\HNY_LAB1\obj\Debug\HNY_LAB1.pdb
