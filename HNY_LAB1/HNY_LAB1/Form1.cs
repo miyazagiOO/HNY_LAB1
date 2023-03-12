@@ -71,16 +71,6 @@ namespace HNY_LAB1
             myGraphic.DrawLine(myPen4, 386, 320, 400, 340);
             myGraphic.DrawLine(myPen4, 414, 320, 400, 340);
 
-            //Color
-            //myGraphic.DrawLine(myPen3, 355, 86, 446, 86);
-            //myGraphic.DrawLine(myPen3, 357, 88, 444, 88);
-            //myGraphic.DrawLine(myPen3, 360, 90, 441, 90);
-            //myGraphic.DrawLine(myPen3, 362, 92, 439, 92);
-            //myGraphic.DrawLine(myPen3, 366, 94, 435, 94);
-            //myGraphic.DrawLine(myPen3, 370, 96, 433, 96);
-            //myGraphic.DrawLine(myPen3, 373, 98, 430, 98);
-            //myGraphic.DrawLine(myPen3, 376, 100, 428, 100);
-
 
 
 
